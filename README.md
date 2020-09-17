@@ -1,11 +1,10 @@
 # TicTacToe
 
-DESCRIPTION: 
+-DESCRIPTION: 
 This is a JAVA client/server program in the form of Tic-Tac-Toe game. 
 The application server allows users to login to play game and chat with orther user in the same network.
------------------------------------------------------------------------------------------------------------------------------
 
-HOW TO RUN THE APPLICATION ?
+-HOW TO RUN THE APPLICATION ?
 Make sure your computer installed Java JRE. 
 
 Server Side: 
